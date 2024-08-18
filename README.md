@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mykyta! 👋
 
-<!--
-**myxac/myxac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer with over 4 years of experience in building responsive and user-friendly web applications. I specialize in modern web technologies like Angular, JavaScript, and TypeScript, and I love creating smooth user experiences and reliable applications.
 
-Here are some ideas to get you started:
+- 💻 I'm always working on improving my skills and expanding my knowledge.
+- 🏢 Professional Experience: Over 4 years as a Frontend Developer at City Sites, where I helped migrate projects to Angular, developed responsive modules, and created cross-platform mobile applications.
+- 🚀 Eager to contribute to open-source projects and collaborate with other developers to build innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Web Technologies:** HTML, CSS, JavaScript, Angular, Bootstrap, TypeScript, RxJs
+- **Design:** Responsive Design, UX/UI, Flexbox, Semantic UI
+- **Tools:** Git, Webpack, Gulp, Figma, Adobe XD
+
+## 📫 How to reach me
+
+- Email: mykyta.bozhko@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mykyta-bozhko-27b587204
+- Telegram: https://t.me/m_bozhko 
