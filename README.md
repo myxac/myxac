@@ -8,7 +8,7 @@ I'm a Frontend Developer with over 4 years of experience in building responsive 
 
 ## 🛠️ Technologies & Tools
 
-- **Web Technologies:** HTML, CSS, JavaScript, Angular, Bootstrap, TypeScript, RxJs
+- **Web Technologies:** HTML, CSS, JavaScript, Angular, Bootstrap, TypeScript, RxJs, PHP, MySQL
 - **Design:** Responsive Design, UX/UI, Flexbox, Semantic UI
 - **Tools:** Git, Webpack, Gulp, Figma, Adobe XD
 
